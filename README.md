@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello there, My name is Fabio 👋
 
-<!--
-**FabioMurillo16/FabioMurillo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-Here are some ideas to get you started:
+## Who am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ```python
+  class WhoAmI:
+    user = 'Fabio Murillo'
+	current_edu = "UVEG"
+    currently_learning = [
+		        "HTML",
+				"CSS",
+				"Javascript"]
+
+    fun_fact = "I'm in Love with KFC"
+	hobbies = [
+				'Music',
+                         'Chilling',
+			 	'Reading',
+				'Sci-Fi Movies'
+			]
+	
+	def getCity():
+		return CDMX_Mexico()
+	
+	def Ambitions():
+		BecomeSoftwareEngineer()
+		FinishMyProjects()
+	
+ ```
